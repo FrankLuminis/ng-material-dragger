@@ -1,0 +1,23 @@
+{
+  "name": "ng-material-dragger",
+  "version": "0.0.1",
+  "description": "Combining angular 2 and dragging and typescript and materialdesign",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankLuminis/ng-material-dragger"
+  },
+  "author": "Frank Folsche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankLuminis/ng-material-dragger/issues"
+  },
+  "homepage": "https://github.com/FrankLuminis/ng-material-dragger"
+}
